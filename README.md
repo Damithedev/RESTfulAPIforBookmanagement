@@ -32,7 +32,7 @@ This is a simple Book Management API built with FastAPI that allows you to perfo
 
 3. Install the dependencies:
     ```bash
-    pip install fastapi uvicorn
+    pip install -r requirements.txt
     ```
 
 ## Running the API
